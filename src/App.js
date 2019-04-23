@@ -4,9 +4,9 @@ import { Title, Text } from './styles/styles';
 function App() {
   return (
     <div>
-        <Title fontFamily={'Raleway'} fontSize={30}>
+        <Title color={'#2225b7'} fontFamily={'Raleway'} fontSize={30}>
           Eae,
-          <span> Beleza?</span>
+          <span fontSize={20}> Beleza?</span>
         </Title>
         <Text>Opa, claro</Text>
     </div>
