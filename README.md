@@ -1,3 +1,10 @@
+#Como inicializar projeto
+
+Clone o projeto com `git clone https://github.com/mateusgpontes/react-styled.git `, 
+Baixe as dependências com `npm install`, 
+E inicie com `npm start`.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
